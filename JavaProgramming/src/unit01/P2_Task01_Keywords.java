@@ -1,4 +1,4 @@
-package Unit01;
+package unit01;
 
 public class P2_Task01_Keywords {
 
@@ -9,7 +9,7 @@ public class P2_Task01_Keywords {
 		 * Some keywords are meant for future use of only and some are supported by specific version of java
 		 */
 		
-       int double =1;
+       double =1;
        int new()
        {
     	   System.out.println("empty");
@@ -20,4 +20,4 @@ public class P2_Task01_Keywords {
 	}
 
 }
-}
+

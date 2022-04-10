@@ -1,4 +1,4 @@
-package Unit01;
+package unit01;
 
 public class P1_Task01_FirstJavaBasedCode {
 
